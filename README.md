@@ -21,7 +21,7 @@ very difficult to solve analytically.
 #### Error Function
 A common integral that comes up in many physical problems including geophysical problems
 (e.g., half-space cooling of oceanic lithosphere), is the following:
-$$\int e^{-s^2}$$.
+$$\int e^{-s^2}$$
 $e^{-s^2}$ is called the Gaussian function, and when integrated from minus infinity to plus 
 infinity, it is called the Gaussian integral.
 
