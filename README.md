@@ -1,5 +1,5 @@
 # Numerical_Tools_in_Geophysics
-This repository  contains my codes written in the projects and homework for GLG 892 
+The Numerical Tools in Geophysics repository  contains my codes written in the projects and homework for GLG 892 
 (Numerical Tools in Earth and Environmental Sciences **recently renamed to** Special Problems 
 in Geophysics and Geodynamics).
 
